@@ -1,3 +1,4 @@
+# Creating a class and its various behaviours or  instance methods
 class Person
     def talk
         puts "Hello World!"
